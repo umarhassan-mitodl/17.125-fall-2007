@@ -1,0 +1,61 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "International Economics"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ]
+  ],
+  "legacy_uid": "ee6089df-f4c2-9ae1-099a-1832ccec4e4c",
+  "instructors": {
+    "content": [
+      "7d89f140-764e-18aa-6eff-5873c0e2ad5a"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "732e51e5-c7a7-070f-e223-5e827c1fbe5e",
+    "website": "17-125-the-politics-of-global-financial-relations-fall-2007"
+  },
+  "course_title": "The Politics of Global Financial Relations",
+  "course_description": "This course explores effects of globalization of finance on international relations and domestic politics. Topics include international institutions and global governance; the multi-nationalization of production; effects of international capital markets on domestic politics; global finance and the developing world; and financial crises. Discussion of the interplay between politics and economics and the future of the nation-state.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.125",
+  "course_image_thumbnail": {
+    "content": "6d347384-b46f-b3f5-1d97-cfcfb7ad3791",
+    "website": "17-125-the-politics-of-global-financial-relations-fall-2007"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "080a5b73-1dbf-45bf-9ca7-6f4450b8f8cd",
+  "site_short_id": "17.125-fall-2007",
+  "site_url_path": "courses/17-125-the-politics-of-global-financial-relations-fall-2007",
+  "title": "Course Metadata"
+}
