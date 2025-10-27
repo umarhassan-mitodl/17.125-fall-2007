@@ -41,7 +41,7 @@ READINGS
 Course overview
 {{< tdclose >}}
 {{< tdopen >}}
-No assigned readings. Check out the {{% resource_link "efefae97-8c22-4f93-a066-49bc079dbdba" "_Financial Times_" %}}.
+No assigned readings. Check out the [_Financial Times_](http://www.ft.com/).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +77,7 @@ Frieden, Jeffry A. _Global Capitalism_. Chapters 11, 12, and 16.
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Obstfeld, Maurice. "{{% resource_link "3e1334fa-bab9-4aaf-b452-1b88459614cb" "The Global Capital Market: Benefactor or Menace" %}}?" National Bureau of Economic Research Working Paper 6559 (May 1998).
+Obstfeld, Maurice. "[The Global Capital Market: Benefactor or Menace](http://www.nber.org/papers/6559)?" National Bureau of Economic Research Working Paper 6559 (May 1998).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +155,7 @@ Frieden, Jeffry. "International Investment and Colonial Control: A New Interpret
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Mankiw, N. Gregory, and Phillip Swagel. "{{% resource_link "90a4da38-e037-4e08-a609-e8c833441d39" "The Politics and Economics of Outsourcing" %}}." National Bureau of Economic Research Working Paper 12398 (July 2006).
+Mankiw, N. Gregory, and Phillip Swagel. "[The Politics and Economics of Outsourcing](http://www.nber.org/papers/w12398)." National Bureau of Economic Research Working Paper 12398 (July 2006).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -204,9 +204,9 @@ Broz, J. Lawrence. "Political System Transparency and Monetary Commitment Regime
 
 Chang, Roberto. "Understanding Recent Crises in Emerging Markets." Federal Reserve Bank of Atlanta, _Economic Review_ 84, no. 2 (Second Quarter 1999): 6-16.
 
-Krugman, Paul. "{{% resource_link "bcc361e5-88c7-4ba6-88f3-1931dafa5e93" "Currency Crises" %}}." Paper Prepared at the National Bureau of Economic Research Conference, October 1997.
+Krugman, Paul. "[Currency Crises](http://www.pkarchive.org/crises/crises.html)." Paper Prepared at the National Bureau of Economic Research Conference, October 1997.
 
-———. "{{% resource_link "d119dccb-c3c0-4c86-b03b-2ba99f46c98e" "Paradigms of Panic: Asia Goes Back to the Future" %}}." _Slate_ (March 12, 1998).
+———. "[Paradigms of Panic: Asia Goes Back to the Future](http://www.pkarchive.org/crises/panic.html)." _Slate_ (March 12, 1998).
 
 Frieden, Jeffry A. _Global Capitalism._ pp. 385-391.
 
@@ -240,7 +240,7 @@ Wyplosz, Charles. "International Financial Instability." In _Global Public Goods
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Rogoff, Kenneth. "{{% resource_link "79fcb138-1e10-44ce-a267-63c1ea820d96" "International Institutions for Reducing Global Financial Instability" %}}." National Bureau of Economic Research Working Paper 7265 (July 1999).
+Rogoff, Kenneth. "[International Institutions for Reducing Global Financial Instability](http://www.nber.org/papers/W7265)." National Bureau of Economic Research Working Paper 7265 (July 1999).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,9 +263,9 @@ Haggard, Stephan, and Sylvia Maxfield. "The Political Economy of Financial Inter
 {{< tdopen >}}
 
 
-International Monetary Fund. "{{% resource_link "fb7d376f-7416-4996-a8a0-cce7fa68dfb5" "What is the IMF?" %}}" September 2006.
+International Monetary Fund. "[What is the IMF?](http://www.imf.org/external/pubind.htm)" September 2006.
 
-Hausmann, Ricardo, and Eduardo Fernandez-Arias. "What's Wrong With International Financial Markets?" Inter-American Development Bank Working Paper 429. Presented at the Tenth International Forum on Latin American Perspectives, Paris, France, November 25-26, 1999. ({{% resource_link "40e6286e-9900-4373-9006-599ea4431cd0" "PDF" %}})
+Hausmann, Ricardo, and Eduardo Fernandez-Arias. "What's Wrong With International Financial Markets?" Inter-American Development Bank Working Paper 429. Presented at the Tenth International Forum on Latin American Perspectives, Paris, France, November 25-26, 1999. ([PDF](https://pdfs.semanticscholar.org/d2b8/b4427d0a4ce955029c8a1001e9bb1783c507.pdf))
 
 
 {{< tdclose >}}
@@ -287,11 +287,11 @@ No assigned readings. In-class discussion.
 {{< tdopen >}}
 
 
-Stiglitz, Joseph. "{{% resource_link "e6537814-15f5-4197-a03c-1967a0ac2637" "The Insider" %}}." _The New Republic_ (April 17, 2000).
+Stiglitz, Joseph. "[The Insider](https://newrepublic.com/article/61082/the-insider)." _The New Republic_ (April 17, 2000).
 
-Rogoff, Kenneth. "{{% resource_link "29b86ebb-32d5-4391-b22e-cc51b2f2e5fa" "The IMF strikes back" %}}." _Foreign Policy_ (January/February 2003).
+Rogoff, Kenneth. "[The IMF strikes back](http://www.imf.org/external/np/vc/2003/021003.htm)." _Foreign Policy_ (January/February 2003).
 
-Calomiris, Charles. "{{% resource_link "e85943cb-78c1-43da-ac2a-4020141d66d7" "The IMF's Imprudent Role as Lender of Last Resort" %}}." _The Cato Journal_ 17, no. 3 (Winter 1998).
+Calomiris, Charles. "[The IMF's Imprudent Role as Lender of Last Resort](http://academiccommons.columbia.edu/catalog/ac%3A138527)." _The Cato Journal_ 17, no. 3 (Winter 1998).
 
 
 {{< tdclose >}}
@@ -307,9 +307,9 @@ International financial crime
 {{< tdopen >}}
 
 
-Financial Action Task Force. "Trade Based Money Laundering." June 2006. ({{% resource_link "09259275-d02e-41f4-adb5-8451ef9e5a05" "PDF" %}})
+Financial Action Task Force. "Trade Based Money Laundering." June 2006. ([PDF](https://www.fatf-gafi.org/publications/methodsandtrends/documents/trade-basedmoneylaundering.html))
 
-———. Report on Money Laundering Typologies. February 1997. ({{% resource_link "46d227cf-8c6d-4fed-97f1-7445eaae18dc" "PDF" %}})
+———. Report on Money Laundering Typologies. February 1997. ([PDF](http://www.fatf-gafi.org/dataoecd/31/29/34043795.pdf))
 
 Wechsler, William F. "Follow the Money." _Foreign Affairs_ (July/August 2001).
 
